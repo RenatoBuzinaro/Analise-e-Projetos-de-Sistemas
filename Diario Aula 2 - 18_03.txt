@@ -1,1 +1,83 @@
-jesus é meu pastor e o hélio me faltará
+Retomada sobre estruturação execução e finalização
+Validação e Verificação
+
+
+Balanceamento entre planejamento e execução;
+
+	questionamento/ conhecimento
+
+
+___________________________________________________________________________________
+Atividade em equipe
+
+
+Tema projeto de software
+
+
+Sdlc o que são? modelos, metodologias e processos auxiliares
+
+
+Ciclo de vida de um projeto é uma maneira sistemática de sair do 0 e chegar ao fim de um projeto
+
+os 3 modelos escolhidos pela equipe foram o v-model ou modelo em v 
+modelo iterativo e modelo ágil.
+
+A atividade foi mal planejada pela equipe e mal pensada pra ser executada. faltou liderança e o tempo limite de 30 minutos causou ansiedade em todo mundo fazendo com que todos quisessem fazer algo mas a maioria entendeu que a atividade seria integrada no Diário de aula. por fim todo mundo pesquisou os 3 modelos escolhidos mas faltou a discussão e categorização das etapas dos ciclos de vida
+
+
+
+
+ciclos 7 etapas
+
+levantamento de dados = entender o que o cliente precisa
+analise de requisitos, identificar o que é preciso
+modelagem do software der , uml
+estruturação**
+
+___________________________________________________________________________________
+
+implementação, desenvolvimento
+teste
+execução**
+
+
+implantação
+manutenção e suporte
+finalização**
+
+
+___________________________________________________________________________________
+Discussão em aula
+
+Modelo é maneira de organizar e realizar o ciclo de vida para realizar um projeto
+
+1 - cascata demora pra implementar e poucas verificações e validações
+    erros de comunicação, falta de entendimento. 
+
+2 - incremental - define o mvp, e implementa e depois incrementa o restante do software
+
+
+3 - espiral - incremental com varias validações e maior participação do cliente. 
+
+modelos ágeis - interativas incrementais e significativas, varias entregas, o que o cliente precisa
+
+kanban e scrum são processos auxiliares de desenvolvimento de
+
+
+___________________________________________________________________________________
+
+4 valores da metodologia ágil. 
+
+dar mais valor ao cliente do que ao contrato
+
+compreender que quem faz a diferença são as pessoas e não as ferramentas
+
+processos. = é melhor estar aberto a mudanças do que seguir cegamente o plano
+
+focar em deixar o código correto e não documentar demais.
+
+
+
+
+
+falhei, não funcionou isso aqui.
